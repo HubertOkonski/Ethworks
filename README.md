@@ -34,7 +34,7 @@ without any special characters or spaces
 
 ---
 
-**The result can be seen in browser's console
+**The result can be seen in browser's console,
 to run the project or test it use commands bellow**
 
 ```
