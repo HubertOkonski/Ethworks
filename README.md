@@ -1,15 +1,15 @@
 # RECRUITMENT TASK FOR ETHWORKS
 
-TO EDIT EXPRESSIONS EDIT VARIABLES LOCATED ON
-THE TOP OF THE APP.JS FILE (VARIABLES NAMED: "augend","addend")
+To edit expressions edit variables located on
+the top of the app.js file (variables named: "augend","addend")
 
 ```
 let augend = " - 10x2 + 6x - 0.75";
 let addend = " 3/2x + 12x0";
 ```
 
-IN EXPRESSION EACH "+" OR "-" MUST BE
-SEPARATED BY A SIGNLE SPACE FROM BOTH SIDES
+in expression each "+" or "-" must be
+separated by a signle space from both sides
 
 **_FOR EXAMPLE :_**
 
@@ -17,8 +17,8 @@ SEPARATED BY A SIGNLE SPACE FROM BOTH SIDES
 
 > augend = "-10x2 +6x - 0.75" **IS INCORRECT**
 
-EXPONENT VALUE MUST BE LOCATED AFTER AN "x"
-WITHOUT ANY SPECIAL CHARACTERS OR SPACES
+exponent value must be located after an "x"
+without any special characters or spaces
 
 **_FOR EXAMPLE:_**
 
@@ -34,8 +34,8 @@ WITHOUT ANY SPECIAL CHARACTERS OR SPACES
 
 ---
 
-**THE RESULT CAN BE SEEN IN BROWSER'S CONSOLE
-TO RUN THE PROJECT OR TEST IT USE COMMANDS BELLOW**
+**The result can be seen in browser's console
+to run the project or test it use commands bellow**
 
 ```
 npm start
