@@ -13,24 +13,24 @@ SEPARATED BY A SIGNLE SPACE FROM BOTH SIDES
 
 **_FOR EXAMPLE :_**
 
-> augend = " - 10x2 + 6x - 0.75" IS CORRECT
+> augend = " - 10x2 + 6x - 0.75" **IS CORRECT**
 
-> augend = "-10x2 +6x - 0.75" IS INCORRECT
+> augend = "-10x2 +6x - 0.75" **IS INCORRECT**
 
 EXPONENT VALUE MUST BE LOCATED AFTER AN "x"
 WITHOUT ANY SPECIAL CHARACTERS OR SPACES
 
 **_FOR EXAMPLE:_**
 
-augend = "5x2" IS CORRECT
+> augend = "5x2" **IS CORRECT**
 
-> augend = "3x-2" IS CORRECT
+> augend = "3x-2" **IS CORRECT**
 
-> augend = "3x5/2" IS CORRECT
+> augend = "3x5/2" **IS CORRECT**
 
-> augend = "2x0" IS CORRECT
+> augend = "2x0" **IS CORRECT**
 
-> augend = "3x 2" IS INCORRECT
+> augend = "3x 2" **IS INCORRECT**
 
 ---
 
